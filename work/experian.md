@@ -1,6 +1,7 @@
 ---
 layout: detail
 title: Experian
+permalink: /work/experian/
 ---
 
 {: .f4 .f3-m .f3-l}

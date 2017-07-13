@@ -1,6 +1,7 @@
 ---
 layout: detail
 title: Oakley 😎
+permalink: /work/oakley/
 ---
 
 {: .f4 .f3-m .f3-l}
