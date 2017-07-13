@@ -76,3 +76,9 @@ h2 {
   font-size: 0.875rem;
   text-transform: uppercase;
 }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
