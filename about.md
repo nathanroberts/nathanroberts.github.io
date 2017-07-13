@@ -3,13 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+{:.lh-copy .mt4 .mb4}
+I'm Nathan Roberts, a product designer living in Southern California. I'm most invested when I'm building something meaningful for people that creates positive impact.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+{:.lh-copy .mt4 .mb4}
+Currently, I lead a product design team at [Experian](http://experian.com) centered around innovation in the finance industry. Our human-centered design approach activates principles outlined in Lean Startup and Change by Design. Previously, I led the interaction design team for [Oakley](http://oakley.com) on oakley.com and partnered with the Intel UX team on a wearable product/iOS and Android app called Radar Pace.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{:.lh-copy .mt4 .mb4}
+I'm married to my wife, Cori (10 years!) Together we have three kids: Abram 👦, Hazel 👧 and Maren 👧. We do our best to center our lives around effectively parenting our children.
