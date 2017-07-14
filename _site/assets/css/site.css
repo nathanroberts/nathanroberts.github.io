@@ -82,3 +82,24 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+p a {
+  text-decoration: none;
+  color: #5FBAFF;
+  font-weight: bold;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+.cf h2 {
+  margin-bottom: 0;
+}
+
+/*.cf p {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  line-height: 1.75rem;
+  font-size: 1.125rem;
+  color: #131313;
+}*/

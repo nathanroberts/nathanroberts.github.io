@@ -5,13 +5,46 @@ layout: default
   <div class="cf">
     <a href="/work" class="breadcrumb dib mt4 mb4 b no-underline underline-hover seafoam">&larr; All work</a>
     <h1 class="mt5 mb0 dark-gray">{{ page.title | escape }}</h1>
-    <p class="f4-l lh-copy mt2">Ecommerce and more for brand and billions</p>
   </div>
 </div>
 
-<div class="mw7 center mb6 ph4">
+<div class="mw7 center mb4 ph4">
   <div class="cf">
     {{content}}
-    <a href="/work" class="breadcrumb dib mt4 mb4 b no-underline underline-hover seafoam">&larr; All work</a>
   </div>
 </div>
+
+{% if page.url == "/work/experian/" %}
+
+
+<div class="mw7 center mt2">
+  <div class="cf">
+    <h2 class="ml4">Other work &mdash;</h2>
+    <ul>
+      <li class="ma3 mh0-l mb3-ns">
+        <a href="/work/oakley" class="dib no-underline w-100 pt3 ph4 br2" style="background-color: #F6F5FF;">
+          <h2 class="f4 f3-m f3-l mb1">Oakley</h2>
+          <p class="f4-l lh-copy mt0 dark-gray mb4">Apps and e-commerce for an iconic sports brand</p>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+{% elsif page.url == "/work/oakley/" %}
+
+<div class="mw7 center mt2">
+  <div class="cf">
+    <h2 class="ml4">Other work &mdash;</h2>
+    <ul>
+      <li class="ma3 mh0-l mb3-ns">
+        <a href="/work/experian" class="dib no-underline w-100 pt3 ph4 br2" style="background-color: #F6F5FF;">
+          <h2 class="f4 f3-m f3-l mb1">Experian</h2>
+          <p class="f4-l lh-copy mt0 dark-gray mb4">Innovative financial products with a human-centered approach</p>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+{% endif %}

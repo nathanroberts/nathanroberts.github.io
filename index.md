@@ -4,4 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-✌🏼
+# Practicing a human-centered approach to product design
+
+I help shape the digital product landscape as a designer at Experian in Costa Mesa, Calif.
+
+[View work](/work/)

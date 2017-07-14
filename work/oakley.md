@@ -4,29 +4,5 @@ title: Oakley 😎
 permalink: /work/oakley/
 ---
 
-{: .f4 .f3-m .f3-l}
-## How it works
-
 {: .f4-l .lh-copy .dark-gray .mb4}
-Retro occupy organic, stumptown shabby chic pour-over roof party DIY normcore. Actually artisan organic occupy, <a href="#" class="no-underline underline-hover seafoam">Wes Anderson</a> ugh whatever pour-over gastropub selvage. Chillwave craft beer tote bag stumptown quinoa hashtag.
-
-
-{: .f4 .f3-m .f3-l}
-## Research
-
-{: .f4-l .lh-copy .dark-gray .mb4}
-Retro occupy organic, stumptown shabby chic pour-over roof party DIY normcore. Actually artisan organic occupy, <a href="#" class="no-underline underline-hover seafoam">Wes Anderson</a> ugh whatever pour-over gastropub selvage. Chillwave craft beer tote bag stumptown quinoa hashtag.
-
-
-{: .f4 .f3-m .f3-l}
-## Discussion Guide and Storyboards
-
-{: .f4-l .lh-copy .dark-gray .mb4}
-Retro occupy organic, stumptown shabby chic pour-over roof party DIY normcore. Actually artisan organic occupy, <a href="#" class="no-underline underline-hover seafoam">Wes Anderson</a> ugh whatever pour-over gastropub selvage. Chillwave craft beer tote bag stumptown quinoa hashtag.
-
-
-{: .f4 .f3-m .f3-l}
-## Prototypes
-
-{: .f4-l .lh-copy .dark-gray .mb4}
-Retro occupy organic, stumptown shabby chic pour-over roof party DIY normcore. Actually artisan organic occupy, <a href="#" class="no-underline underline-hover seafoam">Wes Anderson</a> ugh whatever pour-over gastropub selvage. Chillwave craft beer tote bag stumptown quinoa hashtag.
+At Oakley, I collaborated with the interaction design team to deliver UX/UI, front-end development and back-end integration for [oakley.com](http://oakley.com)'s e-commerce and marketing web experiences. We also designed several native apps including [Mad Science](https://itunes.apple.com/us/app/mad-science/id981695340) and [Radar Pace](https://itunes.apple.com/us/app/radar-pace/id1108147139). Stay tuned for a full write-up on key Oakley projects.
