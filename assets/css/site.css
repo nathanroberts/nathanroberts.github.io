@@ -67,6 +67,12 @@ h1 {
   color: #131313;
 }
 
+h1.hero {
+  font-size: 2.25rem;
+  line-height: 3rem;
+  margin-top: 3.5rem;
+}
+
 h2 {
   font-size: 1.125rem;
   color: #131313;
@@ -103,3 +109,7 @@ p a:hover {
   font-size: 1.125rem;
   color: #131313;
 }*/
+
+.aspect-ratio--4x5 {
+  padding-bottom: 125%;
+}

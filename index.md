@@ -4,8 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+{: .hero}
 # Practicing a human-centered approach to product design
 
-I help shape the digital product landscape as a designer at Experian in Costa Mesa, Calif.
+Nathan Roberts helps shape the digital product landscape as a designer at Experian in Costa Mesa, California.
 
 [View work](/work/)
