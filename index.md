@@ -5,8 +5,9 @@
 layout: home
 ---
 {: .hero}
-# Practicing a human-centered approach to product design
+# Solving problems by designing products aligned to human need.
 
 Nathan Roberts helps shape the digital product landscape as a designer at Experian in Costa Mesa, California.
 
+{: .f6 .link .ph3 .pv2 .dib .white .br1 .cta .seafoam-bg}
 [View work](/work/)

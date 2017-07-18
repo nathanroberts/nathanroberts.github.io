@@ -95,6 +95,23 @@ p a {
   font-weight: bold;
 }
 
+.cta {
+  transition: ease-in-out box-shadow 0.2s;
+}
+
+.cta:hover {
+    box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
+}
+
+.cta a {
+  color: #fff;
+}
+
+.cta a:hover {
+  text-decoration: none;
+  background: #5FBAFF;
+}
+
 p a:hover {
   text-decoration: underline;
 }
@@ -112,4 +129,16 @@ p a:hover {
 
 .aspect-ratio--4x5 {
   padding-bottom: 125%;
+}
+
+.shadow {
+  box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
+}
+
+li {
+  transition: ease-in-out box-shadow 0.2s;
+}
+
+li:hover {
+  box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
 }
