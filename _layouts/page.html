@@ -3,12 +3,22 @@ layout: default
 ---
 <div class="mw7 center ph4">
   <div class="cf">
-    <h1 class="mt5 mb0 dark-gray">{{ page.title | escape }}</h1>
-  </div>
-</div>
-
-<div class="mw7 center mb6 ph4">
-  <div class="cf">
+    <h1 class="mt5 mb3 dark-gray">{{ page.title | escape }}</h1>
     {{content}}
   </div>
 </div>
+
+{% if page.url == "/about/" %}
+<div class="mw7 center mt4">
+  <div class="cf">
+    <ul>
+      <li class="ma3 mh0-l mb3-ns">
+        <a href="#" class="dib no-underline w-100 pt3 ph4 br2" style="background-color: #f8f8f8;">
+          <h2 class="f4 f3-m f3-l mb1">Résumé (PDF)</h2>
+          <p class="f4-l lh-copy mt0 dark-gray mb4">A high-level career and experience overview</p>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+{% endif %}
