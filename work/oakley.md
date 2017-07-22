@@ -14,6 +14,9 @@ Stay tuned for a full write-up and images of key Oakley projects.
 ## Radar Pace
 In partnership with [Intel](http://intel.com), Radar Pace is a real-time voice activated coaching system leveraging sensor-driven eyewear and your iOS or Android smartphone
 
+![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen")
+
+
 ## Mad Science
 Designed for sales, Mad Science showcases Oakley's unique technology in an interactive way
 
