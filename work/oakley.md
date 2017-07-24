@@ -5,7 +5,7 @@ permalink: /work/oakley/
 ---
 
 {: .wider}
-![Oakley Headquarters](/assets/img/oakley/oakley-hq.jpg "Oakley Headquarters")
+![Oakley Headquarters](/assets/img/oakley/oakley-hq.jpg "Oakley Headquarters"){: .br2}
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 At Oakley, I collaborated with the interaction design team, internal and external stakeholders and third-party vendors to design several native apps including [Mad Science](https://itunes.apple.com/us/app/mad-science/id981695340) and [Radar Pace](https://itunes.apple.com/us/app/radar-pace/id1108147139). We also shipped UX/UI, front-end development and back-end integration for [oakley.com](http://oakley.com)'s e-commerce and marketing web experiences. In 2015, Oakley.com generated approximately $60M in revenue and approximately 36M sessions.
@@ -32,13 +32,14 @@ In collaboration with Intel's New Devices Group UI/UX team, we worked remotely a
 In the beginning, I did not have much native mobile design experience. Early on, I felt in over my head with a dual-platform app dependent on pairing with external hardware. Being nose deep in all of it was an incredibly valuable learning experience from my perspective.
 
 {: .db .ml2 .mr4}
-**•**
+**•** The bleeding edge of technology is exciting. The voice interaction side of this project fascinated me. It se
+
 
 {: .db .ml2 .mr4}
 **•**
 
 {: .db .ml2 .mr4}
-**•** 
+**•**
 
 {: .mb2 .mt4}
 ### Solutions
@@ -70,10 +71,10 @@ In the beginning, I did not have much native mobile design experience. Early on,
 
 
 {: .wider}
-![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2}
-![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2}
-![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2}
-![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2}
+![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2 .br2}
+![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2 .br2}
+![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2 .br2}
+![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2 .br2}
 
 
 ## Oakley Custom
