@@ -13,21 +13,34 @@ At Oakley, I collaborated with the interaction design team, internal and externa
 
 ## Radar Pace
 
+{: .mb2 .mt4}
 ### Overview
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 In partnership between Oakley and [Intel](http://intel.com), Radar Pace is a real-time voice activated coaching system leveraging sensor-driven eyewear and your iOS or Android smartphone.
 
+{: .mb2 .mt4}
 ### Role
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-In collaboration with Intel's New Devices Group UI/UX team, we worked remotely and in-person to whiteboard ideas, create prototypes, conducted user research, present findings to stakeholders and iterated on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the UI/UX integrity of the app met Oakley's high standards for product design.
+In collaboration with Intel's New Devices Group UI/UX team, we worked remotely and in-person to whiteboard ideas, create prototypes, conduct user research, present findings to stakeholders and iterat on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the UI/UX integrity of the app met Oakley's standards for product design.
 
+{: .mb2 .mt4}
 ### Challenges
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 In the beginning, I did not have much native mobile design experience. Early on, I felt in over my head with a dual-platform app dependent on pairing with external hardware. Being nose deep in all of it was an incredibly valuable learning experience from my perspective.
 
+{: .db .ml2 .mr4}
+**•**
+
+{: .db .ml2 .mr4}
+**•**
+
+{: .db .ml2 .mr4}
+**•** 
+
+{: .mb2 .mt4}
 ### Solutions
 
 {: .db .ml2 .mr4}
@@ -40,6 +53,7 @@ In the beginning, I did not have much native mobile design experience. Early on,
 **•**
 
 
+{: .mb2 .mt4}
 ### What I learned
 
 {: .db .ml2 .mr4}
@@ -64,16 +78,19 @@ In the beginning, I did not have much native mobile design experience. Early on,
 
 ## Oakley Custom
 
+{: .mb2 .mt4}
 ### Overview
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 Custom accounts for a large part of Oakley's direct-to-consumer business. The oakley.com Custom back-end was built by Fluid and maintained by Oakley's e-commerce team, led by Custom PM George Steihl. The interaction design team led UI/UX for the experience.
 
+{: .mb2 .mt4}
 ### Role
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 For the first half of the project, I directed the design in collaboration with Aaron Dodson. After Aaron left Oakley, I continued iterating on the design while coordinating deliverables and constant communication with the development team, all in sync with George.
 
+{: .mb2 .mt4}
 ### Challenges
 
 {: .f4-l .lh-copy .dark-gray .mb4}
@@ -88,6 +105,7 @@ In 2015, traffic data was showing a growing trend toward mobile for Custom. The 
 {: .db .ml2 .mr4}
 **•** The Add to Cart button was out of view until the user scrolled
 
+{: .mb2 .mt4}
 ### Solutions
 
 {: .db .ml2 .mr4}
@@ -97,6 +115,7 @@ In 2015, traffic data was showing a growing trend toward mobile for Custom. The 
 **•** The scrolling issues were mainly a front-end development challenge. We worked closely with the development team to ensure execution was as we envisioned. We explained through a few meetings the "why" and also had some thoughts on the "how." We also provided external site references to the interaction we wanted to mimic and eventually arrived at a solid solution.
 
 
+{: .mb2 .mt4}
 ### What I learned
 
 {: .db .ml2 .mr4}

@@ -7,6 +7,7 @@ layout: home
 {: .hero}
 # Solving problems by designing products aligned to human need.
 
+{: .mb4}
 Nathan Roberts helps shape digital products as a designer at Experian in Costa Mesa, California.
 
 {: .f6 .link .ph3 .pv2 .dib .white .br1 .cta .seafoam-bg}
