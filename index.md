@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-{: .hero}
+{: .hero .mt5-ns}
 # Solving problems by designing products aligned to human need.
 
 {: .mb4}
