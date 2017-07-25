@@ -31,28 +31,6 @@ In collaboration with Intel's New Devices Group UI/UX team, we worked remotely a
 {: .f4-l .lh-copy .dark-gray .mb4}
 In the beginning, I did not have much native mobile design experience. Early on, I felt in over my head with a dual-platform app dependent on pairing with external hardware. Being nose deep in all of it was an incredibly valuable learning experience from my perspective.
 
-{: .db .ml2 .mr4}
-**•** The bleeding edge of technology is exciting. The voice interaction side of this project fascinated me. It se
-
-
-{: .db .ml2 .mr4}
-**•**
-
-{: .db .ml2 .mr4}
-**•**
-
-{: .mb2 .mt4}
-### Solutions
-
-{: .db .ml2 .mr4}
-**•**
-
-{: .db .ml2 .mr4}
-**•**
-
-{: .db .ml2 .mr4}
-**•**
-
 
 {: .mb2 .mt4}
 ### What I learned
@@ -129,7 +107,7 @@ In 2015, traffic data was showing a growing trend toward mobile for Custom. The 
 **•** When team members move on and it's your responsibility to continue with a project, how do you minimize the time it takes to get familiar with the nitty-gritty of their Sketch and file organization? Fortunately, since Aaron and I collaborated closely, there was little time wasted taking over where he left off. But it's a good idea to have a general understanding and agreement of how design files are produced in preparation for events like a teammate departure.
 
 {: .wider}
-![Custom Hero](/assets/img/oakley/custom-01.jpg "Custom Hero"){: .mb2 .mt2}
-![Configurable Attributes](/assets/img/oakley/custom-02.jpg "Configurable Attributes"){: .mb2 .mt2}
-![Etching](/assets/img/oakley/custom-03.jpg "Etching"){: .mb2 .mt2}
-![Second Lens](/assets/img/oakley/custom-04.jpg "Second Lens"){: .mb2 .mt2}
+![Custom Hero](/assets/img/oakley/custom-01.jpg "Custom Hero"){: .mb2 .mt2 .br2}
+![Configurable Attributes](/assets/img/oakley/custom-02.jpg "Configurable Attributes"){: .mb2 .mt2 .br2}
+![Etching](/assets/img/oakley/custom-03.jpg "Etching"){: .mb2 .mt2 .br2}
+![Second Lens](/assets/img/oakley/custom-04.jpg "Second Lens"){: .mb2 .mt2 .br2}

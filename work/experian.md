@@ -13,32 +13,51 @@ I've spent the last 6 months at [Experian](http://experian.com) working primaril
 ### Overview
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-eResolve is a platform that humanizes the way businesses engage people in collections.
+
 
 {: .mb2 .mt4}
 ### Challenges
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-Traditional methods of collections involves shady, threatening letters sent via mail.
+
 
 {: .mb2 .mt4}
 ### Research
 
+{: .f4-l .lh-copy .dark-gray .mb4}
+
+
 {: .mb2 .mt4}
 ### Prototypes
+
+{: .f4-l .lh-copy .dark-gray .mb4}
 
 {: .mb2 .mt4}
 ### Next steps
 
+{: .f4-l .lh-copy .dark-gray .mb4}
+
+
 {: .wider}
-![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2 .br2}
-![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2 .br2}
-![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2 .br2}
-![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2 .br2}
+![Landing page](/assets/img/experian/eresolve-01.jpg "Landing page"){: .mb2 .mt2 .br2}
+![Choose a payment option](/assets/img/experian/eresolve-02.jpg "Choose a payment option"){: .mb2 .mt2 .br2}
+![Payment details](/assets/img/experian/eresolve-03.jpg "Payment details"){: .mb2 .mt2 .br2}
+![Payment confirmation](/assets/img/experian/eresolve-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2}
+
+
+## Income and Asset Verification
+
+{: .f4-l .lh-copy .dark-gray .mb4}
+Leveraging transactional data to verify income and assets in lending
+
+{: .wider}
+![Landing page](/assets/img/experian/verification-01.jpg "Landing page"){: .mb2 .mt2 .br2}
+![Choose a payment option](/assets/img/experian/verification-02.jpg "Choose a payment option"){: .mb2 .mt2 .br2}
+![Payment details](/assets/img/experian/verification-03.jpg "Payment details"){: .mb2 .mt2 .br2}
+![Payment confirmation](/assets/img/experian/verification-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2}
 
 
 ## Text for Credit
-Instant credit pre-qualification and application starting with a text message
 
-## Income and Asset Verification
-Leveraging transactional data to verify income and assets in lending
+{: .f4-l .lh-copy .dark-gray .mb4}
+Instant credit pre-qualification and application starting with a text message.
