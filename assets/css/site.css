@@ -77,6 +77,11 @@ h2 {
   color: #131313;
 }
 
+h3 {
+  font-size: 1.25rem;
+  color: #131313;
+}
+
 .breadcrumb {
 
 }
@@ -130,11 +135,11 @@ p a:hover {
   box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
 }
 
-.worklist > li {
+.worklist > li a {
   transition: ease-in-out box-shadow 0.2s;
 }
 
-.worklist > li:hover {
+.worklist > li:hover a {
   box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
 }
 

@@ -7,39 +7,35 @@ permalink: /work/oakley/
 {: .wider}
 ![Oakley Headquarters](/assets/img/oakley/oakley-hq.jpg "Oakley Headquarters"){: .br2}
 
-{: .f4-l .lh-copy .dark-gray .mb4}
-At Oakley, I collaborated with the interaction design team, internal and external stakeholders and third-party vendors to design several native apps including [Mad Science](https://itunes.apple.com/us/app/mad-science/id981695340) and [Radar Pace](https://itunes.apple.com/us/app/radar-pace/id1108147139). We also shipped UX/UI, front-end development and back-end integration for [oakley.com](http://oakley.com)'s e-commerce and marketing web experiences. In 2015, Oakley.com generated approximately $60M in revenue and approximately 36M sessions.
+{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
+At Oakley, I worked with the interaction design team, internal and external stakeholders and third-party vendors to design several native apps including [Mad Science](https://itunes.apple.com/us/app/mad-science/id981695340) and [Radar Pace](https://itunes.apple.com/us/app/radar-pace/id1108147139). We also shipped UX/UI, front-end development and back-end integration for [oakley.com](http://oakley.com)'s e-commerce and marketing web experiences. In 2015, Oakley.com generated approximately $60M in revenue and approximately 36M sessions.
 
-
+{: .mt5}
 ## Radar Pace
 
 {: .mb2 .mt4}
 ### Overview
 
-{: .f4-l .lh-copy .dark-gray .mb4}
+{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
 Oakley and [Intel](http://intel.com) partnered to create Radar Pace, a real-time voice activated coaching system leveraging sensor-driven eyewear and your iOS or Android smartphone.
 
 {: .mb2 .mt4}
 ### Role
 
-{: .f4-l .lh-copy .dark-gray .mb4}
+{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
 I worked with Intel's New Devices Group UI/UX team to whiteboard ideas, create prototypes, conduct user research, present findings to stakeholders and iterate on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the overall digital experience and visual design of the app met Oakley's standards for product design.
 
 {: .mb2 .mt4}
 ### What I learned
 
-{: .db .ml2 .mr4}
-**•** **Prototype as early as possible.** We got too far into the design before we put the product in front of people for feedback
+{: .db .ml2 .mr4 .f5 .f4-ns}
+**•** We got too far into the design before we put the product in front of people for feedback. **Prototype as early as possible.**
 
-{: .db .ml2 .mr4}
-**•** Most of the user research we did later on was in a board room. **Test prototypes with users in the intended environment** provides more accurate feedback and drives clearer insights. This give us meaningful data to take action on, leading to a more focused product. (This did happen later, but after the product was nearly built, costing time and money when iterating)
+{: .db .ml2 .mr4 .f5 .f4-ns}
+**•** Most of the user research we did later on was in a board room. **Testing prototypes with users in the intended environment** provides more accurate feedback and drives clearer insights. This give us meaningful data to take action on, leading to a more focused product. This did happen later, but after the product was nearly built, costing time and money when iterating.
 
-{: .db .ml2 .mr4}
-**•** Because of the complicated nature of wearables (not just one but *two* devices involved), creating and user **testing prototypes progressively as the hardware improved** or changed would have solved headaches down the road.
-
-{: .db .ml2 .mr4}
-**•** We assumed too much of what users would want in the product. This was misguided by egos and efficiency up front, which cost us churn/time down the road.
-
+{: .db .ml2 .mr4 .f5 .f4-ns}
+**•** The product shipped later than intended because so many features were mandated into the launch. Launching with a MVP would have shortened the development timeline, brought us to market earlier and afforded us [validated learning](http://theleanstartup.com/principles) for future iterations.
 
 {: .wider}
 ![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2 .br2}
@@ -48,6 +44,7 @@ I worked with Intel's New Devices Group UI/UX team to whiteboard ideas, create p
 ![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2 .br2}
 
 
+{: .mt5}
 ## Oakley Custom
 
 {: .mb2 .mt4}
