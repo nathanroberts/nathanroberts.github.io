@@ -17,19 +17,19 @@ At Oakley, I collaborated with the interaction design team, internal and externa
 ### Overview
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-In partnership between Oakley and [Intel](http://intel.com), Radar Pace is a real-time voice activated coaching system leveraging sensor-driven eyewear and your iOS or Android smartphone.
+Oakley and [Intel](http://intel.com) partnered to create Radar Pace, a real-time voice activated coaching system leveraging sensor-driven eyewear and your iOS or Android smartphone.
 
 {: .mb2 .mt4}
 ### Role
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-In collaboration with Intel's New Devices Group UI/UX team, we worked remotely and in-person to whiteboard ideas, create prototypes, conduct user research, present findings to stakeholders and iterat on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the UI/UX integrity of the app met Oakley's standards for product design.
+I worked with Intel's New Devices Group UI/UX team to whiteboard ideas, create prototypes, conduct user research, present findings to stakeholders and iterate on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the overall digital experience and visual design of the app met Oakley's standards for product design.
 
 {: .mb2 .mt4}
 ### Challenges
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-In the beginning, I did not have much native mobile design experience. Early on, I felt in over my head with a dual-platform app dependent on pairing with external hardware. Being nose deep in all of it was an incredibly valuable learning experience from my perspective.
+
 
 
 {: .mb2 .mt4}
