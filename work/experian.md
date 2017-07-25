@@ -5,7 +5,7 @@ permalink: /work/experian/
 ---
 
 {: .wider}
-![Experian Headquarters](/assets/img/experian/experian-hq.jpg "Experian Headquarters"){: .br2}
+![Experian Headquarters](/assets/img/experian/experian-hq.jpg "Experian Headquarters"){: .br2-ns}
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 I've spent the last 6 months at [Experian](http://experian.com) working primarily on three products: [eResolve](https://www.experian.com/consumer-information/virtual-debt-resolution-negotiation-eResolve.html), [Text for Credit](http://www.experian.com/blogs/news/2017/07/11/text-credit-modernizes-lending-industry-allowing-consumers-obtain-real-time-credit-via-text/) and [Income and Asset Verification](http://www.experian.com/consumer-information/account-aggregation-solutions.html).  All three projects are still in progress.
@@ -50,8 +50,17 @@ Now the design team is fleshing out the visual design in preparation for the dev
 {: .db .ml2 .mr4}
 **•** We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
 
+{: .f4-l .lh-copy .dark-gray .mb4}
+Here are a few mobile screens from the project showing the work done.
+
+{: .wider}
+![Landing page](/assets/img/experian/eresolve-01.jpg "Landing page"){: .mb2 .mt2 .br2-ns}
+![Choose a payment option](/assets/img/experian/eresolve-02.jpg "Choose a payment option"){: .mb2 .mt2 .br2-ns}
+![Payment details](/assets/img/experian/eresolve-03.jpg "Payment details"){: .mb2 .mt2 .br2-ns}
+![Payment confirmation](/assets/img/experian/eresolve-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2-ns}
+
 {: .mb2 .mt4}
-### What I have learned
+### What I have learned (so far)
 
 {: .db .ml2 .mr4}
 **•** **Data is everything.** The research done before I arrived paved the way to a data-driven design approach. I could point back to it to justify every design decision I made.
@@ -62,23 +71,21 @@ Now the design team is fleshing out the visual design in preparation for the dev
 {: .db .ml2 .mr4}
 **•** **Listen to the user.** The fewer assumptions we make about a design - and the more we ask the humans it is designed for, the better suited it will be for them.
 
-{: .wider}
-![Landing page](/assets/img/experian/eresolve-01.jpg "Landing page"){: .mb2 .mt2 .br2}
-![Choose a payment option](/assets/img/experian/eresolve-02.jpg "Choose a payment option"){: .mb2 .mt2 .br2}
-![Payment details](/assets/img/experian/eresolve-03.jpg "Payment details"){: .mb2 .mt2 .br2}
-![Payment confirmation](/assets/img/experian/eresolve-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2}
 
 {: .mt5}
 ## Income and Asset Verification
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-Leveraging transactional data to verify income and assets in lending
+We're exploring some user flows and features for leveraging data to verify income and assets in lending. These few screens are part of a larger exploration demonstrating a user being presented with the ability to verify their income and assets in a digital loan process (an online mortgage application, for example). For more information on this project, let's chat 😊
 
 {: .wider}
-![Find your FI](/assets/img/experian/verification-01.jpg "Find your FI"){: .mb2 .mt2 .br2}
-![Live search](/assets/img/experian/verification-02.jpg "Live search"){: .mb2 .mt2 .br2}
-![Enter FI credentials](/assets/img/experian/verification-03.jpg "Enter FI credentials"){: .mb2 .mt2 .br2}
-![Gathering account information](/assets/img/experian/verification-04.jpg "Gathering account information"){: .mb2 .mt2 .br2}
-![Successfully added 3 accounts](/assets/img/experian/verification-05.jpg "Successfully added 3 accounts"){: .mb2 .mt2 .br2}
-![Third party authorization](/assets/img/experian/verification-06.jpg "Third party authorization"){: .mb2 .mt2 .br2}
-![Account listing](/assets/img/experian/verification-07.jpg "Account listing"){: .mb2 .mt2 .br2}
+![Find your FI](/assets/img/experian/verification-01.jpg "Find your FI"){: .mb2 .mt2 .br2-ns}
+![Live search](/assets/img/experian/verification-02.jpg "Live search"){: .mb2 .mt2 .br2-ns}
+![Enter FI credentials](/assets/img/experian/verification-03.jpg "Enter FI credentials"){: .mb2 .mt2 .br2-ns}
+![Gathering account information](/assets/img/experian/verification-04.jpg "Gathering account information"){: .mb2 .mt2 .br2-ns}
+![Successfully added 3 accounts](/assets/img/experian/verification-05.jpg "Successfully added 3 accounts"){: .mb2 .mt2 .br2-ns}
+![Third party authorization](/assets/img/experian/verification-06.jpg "Third party authorization"){: .mb2 .mt2 .br2-ns}
+![Account listing](/assets/img/experian/verification-07.jpg "Account listing"){: .mb2 .mt2 .br2-ns}
+
+{: .f4-l .lh-copy .dark-gray .mb4}
+Thanks for reading 🙏🏻
