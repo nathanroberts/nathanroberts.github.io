@@ -4,9 +4,13 @@ title: Experian 💳
 permalink: /work/experian/
 ---
 
+{: .wider}
+![Experian Headquarters](/assets/img/experian/experian-hq.jpg "Experian Headquarters"){: .br2}
+
 {: .f4-l .lh-copy .dark-gray .mb4}
 I've spent the last 6 months at [Experian](http://experian.com) working primarily on three products: [eResolve](https://www.experian.com/consumer-information/virtual-debt-resolution-negotiation-eResolve.html), [Text for Credit](http://www.experian.com/blogs/news/2017/07/11/text-credit-modernizes-lending-industry-allowing-consumers-obtain-real-time-credit-via-text/) and [Income and Asset Verification](http://www.experian.com/consumer-information/account-aggregation-solutions.html).  All three projects are still in progress.
 
+{: .mt5}
 ## eResolve
 
 {: .mb2 .mt4}
@@ -64,7 +68,7 @@ Now the design team is fleshing out the visual design in preparation for the dev
 ![Payment details](/assets/img/experian/eresolve-03.jpg "Payment details"){: .mb2 .mt2 .br2}
 ![Payment confirmation](/assets/img/experian/eresolve-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2}
 
-
+{: .mt5}
 ## Income and Asset Verification
 
 {: .f4-l .lh-copy .dark-gray .mb4}
