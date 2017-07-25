@@ -26,13 +26,6 @@ Oakley and [Intel](http://intel.com) partnered to create Radar Pace, a real-time
 I worked with Intel's New Devices Group UI/UX team to whiteboard ideas, create prototypes, conduct user research, present findings to stakeholders and iterate on UI/UX for Radar Pace on iOS and Android platforms. My primary role was to ensure the overall digital experience and visual design of the app met Oakley's standards for product design.
 
 {: .mb2 .mt4}
-### Challenges
-
-{: .f4-l .lh-copy .dark-gray .mb4}
-
-
-
-{: .mb2 .mt4}
 ### What I learned
 
 {: .db .ml2 .mr4}
