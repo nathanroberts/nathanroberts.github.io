@@ -41,7 +41,7 @@ body {
 }
 
 .seafoam {
-  color: #5FBAFF;
+  color: #4E84FF;
 }
 
 .owl-nav {
@@ -54,6 +54,15 @@ body {
 
 .seafoam-bg {
   background-color: #5FBAFF;
+  background-color: #4E84FF;
+}
+
+.primary-color {
+  background-color: #4E84FF;
+}
+
+.secondary-color {
+  background-color: #B4D4FF;
 }
 
 p {
@@ -94,7 +103,7 @@ ul {
 
 p a {
   text-decoration: none;
-  color: #5FBAFF;
+  color: #4E84FF;
   font-weight: bold;
 }
 
@@ -113,7 +122,6 @@ p a {
 
 .cta a:hover {
   text-decoration: none;
-  background: #5FBAFF;
 }
 
 p a:hover {
