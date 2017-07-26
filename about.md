@@ -4,7 +4,7 @@ title: About Nathan
 permalink: /about/
 ---
 
-{: .wider}
+{: .wider .mb4}
 ![Nathan Roberts' Family](/assets/img/family.gif "Nathan Roberts' Family"){: .br2-ns}
 
 {: .f4-l .lh-copy .dark-gray .mb4}
