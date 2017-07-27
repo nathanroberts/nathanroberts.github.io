@@ -23,10 +23,10 @@ Experian offers eResolve to businesses who want to take a human-friendly, digita
 ### Role
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-When I arrived at Experian, research had been conducted on an early version of eResolve. I've since translated the insights gathered from the research into action items that will refine the product. This includes re-thinking the user flow, content strategy and visual design. After multiple iterations of sketches and rough prototypes, I presented a refined prototype to stakeholders and the development team.
+When I arrived at Experian, my director handed me deck of research (user interviews and insights) on an early version of eResolve. I spent some time digging into this research to familiarize myself with where the product was and where it needs to go to best serve its users. I translated the insights gathered from the research into action items to refine the product. This included re-thinking the user flow, simplifying the content strategy and refreshing the visual design. After jotting down some thoughts and ideas, I sketched them out to see the form. After multiple iterations of sketches and rough prototypes, I presented a refined prototype to stakeholders and the development team.
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-Now the design team is fleshing out the visual design in preparation for the development team. We'll work together with them through the development process to ensure the design is executed, with special attention to interaction, performance and device support.
+Now I'm working a designer on my team to flesh out the visual design. She's addressing things like different states of the UI and thinking through some alternative approaches to a few steps in the flow. We're also beginning to meet and align with the development team since we will work together with them through the development process to ensure the design is executed, with special attention to interaction, performance and device support.
 
 {: .mb2 .mt4}
 ### Challenges
@@ -35,7 +35,7 @@ Now the design team is fleshing out the visual design in preparation for the dev
 **•** The early version of eResolve was jam-packed with extra information and heavy on decorations. This left users unsure of where to look or what to do.
 
 {: .db .ml2 .mr4}
-**•** We wanted the user to have more control by negotiating payment amounts, terms and dates but also set parameters that a financial institution would accept. We are currently exploring if/how we can leverage data to propose terms that work well for both the user and the financial institution.
+**•** We wanted the user to have more control by negotiating payment amounts, terms and dates but also set parameters that a financial institution would be comfortable accepting. We are currently exploring if/how we can leverage data to intelligently propose terms that work well for both the user and the financial institution.
 
 {: .db .ml2 .mr4}
 **•** After a user agrees to a payment plan, what's the best way to interact with them? Payment reminder options, progress updates,  and pay-off celebrations are all being considered as options to continue the human-friendly approach outside of the initial experience.
@@ -63,13 +63,13 @@ Here are a few mobile screens from the project showing the work done.
 ### What I have learned (so far)
 
 {: .db .ml2 .mr4}
-**•** **Data is everything.** The research done before I arrived paved the way to a data-driven design approach. I could point back to it to justify every design decision I made.
+**•** **Data is everything.** The research done before I arrived paved the way to a data-driven design approach. I can reference it to justify every design decision made.
 
 {: .db .ml2 .mr4}
-**•** **Meaningful data comes from drawing insights from user interviews** When reading or listening to user interviews, it's important to listen *underneath* the words people say to get to the heart of the words. It's also important to understand who they are and what they're about for context and even more meaning.
+**•** **Meaningful data comes from drawing insights from user interviews** When conducting and analyzing user interviews, it's important to listen *underneath* the words people say to get to the heart of the words. It's also important to understand who they are and what they're about for context and even more meaning.
 
 {: .db .ml2 .mr4}
-**•** **Listen to the user.** The fewer assumptions we make about a design - and the more we ask the humans it is designed for, the better suited it will be for them.
+**•** **Put the user first.** The fewer assumptions we make about a design, and the more we ask the users it is designed for, the better the product will be for the user.
 
 
 {: .mt5}
