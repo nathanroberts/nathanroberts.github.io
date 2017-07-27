@@ -51,11 +51,13 @@ Now I'm working a designer on my team to flesh out the visual design. She's addr
 **•** We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-Here are a few mobile screens from the project showing the work done.
+Here are a few of the screens we presented:
 
 {: .wider}
-![Landing page](/assets/img/experian/eresolve-01.jpg "Landing page"){: .mb2 .mt2 .br2-ns}
-![Choose a payment option](/assets/img/experian/eresolve-02.jpg "Choose a payment option"){: .mb2 .mt2 .br2-ns}
+![Landing page - Mobile](/assets/img/experian/eresolve-01.jpg "Landing page - Mobile"){: .mb2 .mt2 .br2-ns}
+![Landing Page - Desktop](/assets/img/experian/eresolve-05.jpg "Landing Page - Desktop"){: .mb2 .mt2 .br2-ns}
+![Choose a payment option - Mobile](/assets/img/experian/eresolve-02.jpg "Choose a payment option - Mobile"){: .mb2 .mt2 .br2-ns}
+![Choose a payment option - Desktop](/assets/img/experian/eresolve-06.jpg "Choose a payment option - Desktop"){: .mb2 .mt2 .br2-ns}
 ![Payment details](/assets/img/experian/eresolve-03.jpg "Payment details"){: .mb2 .mt2 .br2-ns}
 ![Payment confirmation](/assets/img/experian/eresolve-04.jpg "Payment confirmation"){: .mb2 .mt2 .br2-ns}
 
