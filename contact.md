@@ -6,10 +6,10 @@ permalink: /contact/
 
 ## Email
 
-{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
+{: .f4-l .lh-copy .dark-gray .mb4}
 If you think I'd be a good fit for your project or want to work together, great! Shoot me an email at [nathan@nathanroberts.com](mailto:nathan@nathanroberts.com){: .no-underline .underline-hover .seafoam}.
 
-{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
+{: .f4-l .lh-copy .dark-gray .mb4}
 You can also reach me here:
 
 ## LinkedIn
