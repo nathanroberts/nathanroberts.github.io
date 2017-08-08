@@ -10,8 +10,8 @@ layout: home
 {: .mb4}
 Nathan Roberts helps shape digital products as a designer at Experian in Costa Mesa, California.
 
-{: .f6 .link .ph3 .pv2 .dib .white .br1 .cta .primary-color}
+{: .f6 .link .ph3 .pv2 .dib .white .cta .primary-color}
 [View work](/work/)
 
-{: .f6 .link .ph3 .pv2 .dib .white .br1 .cta .ml2 .secondary-color}
+{: .f6 .link .ph3 .pv2 .dib .white .cta .ml2 .secondary-color}
 [View Resume](/assets/docs/resume_2016.pdf)

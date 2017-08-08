@@ -4,8 +4,6 @@ title: Oakley 😎
 permalink: /work/oakley/
 ---
 
-{: .wider}
-![Oakley Headquarters](/assets/img/oakley/oakley-hq.jpg "Oakley Headquarters"){: .br2-ns}
 
 {: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
 At Oakley, I worked with the interaction design team, internal and external stakeholders and third-party vendors to design several native apps including [Mad Science](https://itunes.apple.com/us/app/mad-science/id981695340) and [Radar Pace](https://itunes.apple.com/us/app/radar-pace/id1108147139). We also shipped UX/UI, front-end development and back-end integration for [oakley.com](http://oakley.com)'s e-commerce and marketing web experiences. In 2015, Oakley.com generated approximately $60M in revenue and approximately 36M sessions.
@@ -42,10 +40,10 @@ I worked with Intel's New Devices Group UI/UX team to whiteboard ideas, create p
 Here are a few screens showing the Profile and Plan sections of the app. These give you a good sense of the organization of the app and the visual design. *[More screens needed?]*
 
 {: .wider}
-![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2 .br2-ns}
-![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2 .br2-ns}
-![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2 .br2-ns}
-![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2 .br2-ns}
+![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2}
+![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2}
+![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2}
+![Profile](/assets/img/oakley/radar-pace-04.jpg "Profile"){: .mb2 .mt2}
 
 
 {: .mb2 .mt4}
@@ -114,10 +112,10 @@ In 2015, traffic data was showing a growing trend toward mobile for Custom. The 
 **•** When team members move on and it's your responsibility to continue with a project, how do you minimize the time it takes to get familiar with the nitty-gritty of their Sketch and file organization? Fortunately, since Aaron and I collaborated closely, there was little time wasted taking over where he left off. But it's a good idea to have a general understanding and agreement of how design files are produced in preparation for events like a teammate departure.
 
 {: .wider}
-![Custom Hero](/assets/img/oakley/custom-01.jpg "Custom Hero"){: .mb2 .mt2 .br2-ns}
-![Configurable Attributes](/assets/img/oakley/custom-02.jpg "Configurable Attributes"){: .mb2 .mt2 .br2-ns}
-![Etching](/assets/img/oakley/custom-03.jpg "Etching"){: .mb2 .mt2 .br2-ns}
-![Second Lens](/assets/img/oakley/custom-04.jpg "Second Lens"){: .mb2 .mt2 .br2-ns}
+![Custom Hero](/assets/img/oakley/custom-01.jpg "Custom Hero"){: .mb2 .mt2}
+![Configurable Attributes](/assets/img/oakley/custom-02.jpg "Configurable Attributes"){: .mb2 .mt2}
+![Etching](/assets/img/oakley/custom-03.jpg "Etching"){: .mb2 .mt2}
+![Second Lens](/assets/img/oakley/custom-04.jpg "Second Lens"){: .mb2 .mt2}
 
 {: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
 Thanks for reading 🙏🏻

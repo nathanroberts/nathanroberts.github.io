@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 {: .wider .mb4}
-![Nathan Roberts' Family](/assets/img/family.gif "Nathan Roberts' Family"){: .br2-ns}
+![Nathan Roberts' Family](/assets/img/family.gif "Nathan Roberts' Family")
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 I have an *incredible* family -- I'm a proud dad! My wife and I married 10 years(!!!) ago. Together we have three kids: Abram 👦, Hazel 👧 and Maren 👧. We do our best to center our lives around effectively parenting our children.
