@@ -14,4 +14,4 @@ Nathan Roberts helps shape digital products as a designer at Experian in Costa M
 [View work](/work/)
 
 {: .f6 .link .ph3 .pv2 .dib .white .cta .ml2 .secondary-color}
-[View Resume](/assets/docs/Nathan Roberts Résumé.pdf)
+[View Resume](/assets/docs/nathan_roberts_resume.pdf)
