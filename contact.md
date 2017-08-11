@@ -4,25 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-## Email
-
 {: .f4-l .lh-copy .dark-gray .mb4}
 If you think I'd be a good fit for your project or want to work together, great! Shoot me an email at [nathan@nathanroberts.com](mailto:nathan@nathanroberts.com){: .no-underline .underline-hover .seafoam}.
 
-{: .f4-l .lh-copy .dark-gray .mb4}
-You can also reach me here:
-
-## LinkedIn
-[http://linkedin.com/in/nathan-roberts](http://linkedin.com/in/nathan-roberts "Nathan Roberts LinkedIn"){: .no-underline .underline-hover .seafoam}
-
-## Instagram
-[http://instagram.com/nascro](http://instagram.com/nascro "Nathan Roberts Instagram"){: .no-underline .underline-hover .seafoam}
-
-## Facebook
-[http://facebook.com/nathanroberts](http://facebook.com/nathanroberts "Nathan Roberts Facebook"){: .no-underline .underline-hover .seafoam}
-
-## Twitter
-[http://twitter.com/nathanroberts](http://twitter.com/nathanroberts "Nathan Roberts Twitter"){: .no-underline .underline-hover .seafoam}
-
-## Dribbble
-[http://dribbble.com/nathanroberts](http://dribbble.com/nathanroberts "Nathan Roberts Dribbble"){: .no-underline .underline-hover .seafoam}
+[<img src="/assets/img/icons/icon-linkedin.svg" alt="LinkedIn icon" style="width:24px">](http://linkedin.com/in/nathan-roberts "Nathan Roberts LinkedIn"){: .no-underline .mr3} [<img src="/assets/img/icons/icon-instagram.svg" alt="Instagram icon" style="width:24px">](http://instagram.com/nascro "Nathan Roberts Instagram"){: .no-underline .mr3} [<img src="/assets/img/icons/icon-facebook.svg" alt="Facebook icon" style="width:24px">](http://facebook.com/nathanroberts "Nathan Roberts Facebook"){: .no-underline .mr3} [<img src="/assets/img/icons/icon-twitter.svg" alt="Twitter icon" style="width:24px">](http://twitter.com/nathanroberts "Nathan Roberts Twitter"){: .no-underline .mr3} [<img src="/assets/img/icons/icon-dribbble.svg" alt="Dribble icon" style="width:24px">](http://dribbble.com/nathanroberts "Nathan Roberts Dribbble"){: .no-underline}

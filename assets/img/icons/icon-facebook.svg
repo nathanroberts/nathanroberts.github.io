@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.1 (44463) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="7.47755 32 14.955 32 14.955 0 7.47755 0 0.0001 0 0.0001 32"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-facebook">
+            <g id="Page-1" transform="translate(9.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M9.9961,32 L4.0001,32 L4.0001,16 L0.0001,16 L0.0001,10.486 L4.0001,10.484 L3.9941,7.236 C3.9941,2.737 5.2131,0 10.5121,0 L14.9241,0 L14.9241,5.515 L12.1671,5.515 C10.1031,5.515 10.0041,6.286 10.0041,7.724 L9.9961,10.484 L14.9551,10.484 L14.3711,15.998 L10.0001,16 L9.9961,32 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
