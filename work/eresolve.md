@@ -4,8 +4,8 @@ title: eResolve
 permalink: /work/eresolve/
 ---
 
-{: .f4-l .lh-copy .dark-gray .mb4}
-I've spent the last 6 months at [Experian](http://experian.com) working primarily on three products: [eResolve](https://www.experian.com/consumer-information/virtual-debt-resolution-negotiation-eResolve.html), [Text for Credit](http://www.experian.com/blogs/news/2017/07/11/text-credit-modernizes-lending-industry-allowing-consumers-obtain-real-time-credit-via-text/) and [Income and Asset Verification](http://www.experian.com/consumer-information/account-aggregation-solutions.html).
+{: .f4-l .lh-copy .dark-gray .hilite .br2 .dib .ph1}
+Still working on this case study. Should have something up this week :)
 
 {: .mb2 .mt4}
 ### Overview
@@ -61,5 +61,5 @@ Data is everything. The research done before I arrived paved the way to a data-d
 {: .f4-l .lh-copy .dark-gray .mt6}
 Thanks for reading 🙏🏻
 
-{: .f5 .f4-m .f4-l .lh-copy .dark-gray .mb4}
+{: .f4-l .lh-copy .dark-gray .mb4}
 &larr; [Back to all work](/work)

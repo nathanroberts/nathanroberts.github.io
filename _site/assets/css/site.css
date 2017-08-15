@@ -3,38 +3,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-#triangle, #circle, #square, #diamond, #line {
-  position: absolute;
-  z-index: -1;
-  /*display: none;*/
-}
-
-#triangle {
-  top: 720px;
-  left: 15%;
-}
-
-#circle {
-  top: 680px;
-  right: 0;
-}
-
-#square {
-  top: 20px;
-  left: 50%;
-  transform: rotate(-15deg);
-}
-
-#diamond {
-  top: 90px;
-  left: 75%;
-}
-
-#line {
-  top: 60px;
-  left: 80%;
-}
-
 .link {
   color: #131313;
   font-size: 1.125rem;
@@ -91,18 +59,18 @@ h3 {
   color: #131313;
 }
 
-.breadcrumb {
-
+.hilite {
+  background-color: #CAFFE9;
 }
 
 ul {
-  margin: 0 1.25rem;
+  margin: 0 0 2rem 1.25rem;
   padding: 0;
 }
 
 ul li {
   margin-bottom: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   color: #131313;
   line-height: 1.5;
 }
@@ -151,6 +119,10 @@ p a:hover {
   list-style: none;
 }
 
+.worklist li {
+  margin: 0;
+}
+
 .worklist li p {
   font-weight: normal;
 }
@@ -165,5 +137,9 @@ p a:hover {
   .wider {
     margin-left: -5rem;
     margin-right: -5rem;
+  }
+
+  ul li {
+    font-size: 1.25rem;
   }
 }
