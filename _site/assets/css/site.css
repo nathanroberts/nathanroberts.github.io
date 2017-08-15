@@ -96,12 +96,18 @@ h3 {
 }
 
 ul {
-  margin: 0;
+  margin: 0 1.25rem;
   padding: 0;
-  list-style: none;
 }
 
-p a {
+ul li {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  color: #131313;
+  line-height: 1.5;
+}
+
+p a, li a {
   text-decoration: none;
   color: #4E84FF;
   font-weight: bold;
@@ -139,13 +145,16 @@ p a:hover {
   box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
 }
 
-/*.worklist > li a {
-  transition: ease-in-out box-shadow 0.2s;
+.worklist  {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.worklist > li:hover a {
-  box-shadow: 0 0.3em 0.5em -0.2em rgba(100,100,100,0.25), 0 1em 2em -0.75em rgba(100,100,100,0.25), 0 1em 3em -0.5em rgba(100,100,100,0.25);
-}*/
+.worklist li p {
+  font-weight: normal;
+}
+
 
 .wider {
   margin-left: -2rem;

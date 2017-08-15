@@ -19,14 +19,9 @@ eResolve is a human-friendly, digital first approach to collections. Traditional
 {: .f4-l .lh-copy .dark-gray .mb4}
 I spent some time digging into some existing user interviews and insights to familiarize myself with the product and how it could better meet the needs of its users. Translating the insights into action items allowed me to create a picture of how to improve eResolve. I needed to:
 
-{: .db .ml2 .mr4}
-**•** Re-think the user flow
-
-{: .db .ml2 .mr4}
-**•**  Simplify the content strategy
-
-{: .db .ml2 .mr4}
-**•**  Refresh the visual design
+- Re-think the user flow
+- Simplify the content strategy
+- Refresh the visual design
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 After jotting down some thoughts and ideas, I sketched them out to see the form. After multiple iterations of sketches and rough prototypes, I presented a refined prototype to stakeholders and the development team.
@@ -37,27 +32,17 @@ Now I'm working a designer on my team to flesh out the visual design. She's addr
 {: .mb2 .mt4}
 ### Challenges
 
-{: .db .ml2 .mr4}
-**•** The early version of eResolve was jam-packed with extra information and heavy on decorations. This left users unsure of where to look or what to do.
-
-{: .db .ml2 .mr4}
-**•** We wanted the user to have more control by negotiating payment amounts, terms and dates but also set parameters that a financial institution would be comfortable accepting. We are currently exploring if/how we can leverage data to intelligently propose terms that work well for both the user and the financial institution.
-
-{: .db .ml2 .mr4}
-**•** After a user agrees to a payment plan, what's the best way to interact with them? Payment reminder options, progress updates,  and pay-off celebrations are all being considered as options to continue the human-friendly approach outside of the initial experience.
+- The early version of eResolve was jam-packed with extra information and heavy on decorations. This left users unsure of where to look or what to do.
+- We wanted the user to have more control by negotiating payment amounts, terms and dates but also set parameters that a financial institution would be comfortable accepting. We are currently exploring if/how we can leverage data to intelligently propose terms that work well for both the user and the financial institution.
+- After a user agrees to a payment plan, what's the best way to interact with them? Payment reminder options, progress updates,  and pay-off celebrations are all being considered as options to continue the human-friendly approach outside of the initial experience.
 
 
 {: .mb2 .mt4}
 ### Solution
 
-{: .db .ml2 .mr4}
-**•** We simplified the user flow by taking a "[one thing per page](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)" approach: instead of putting everything on one page, we separated the process into multiple, minimal pages.
-
-{: .db .ml2 .mr4}
-**•** We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
-
-{: .f4-l .lh-copy .dark-gray .mb4}
-Here are a few of the screens we presented:
+- We simplified the user flow by taking a "[one thing per page](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)" approach: instead of putting everything on one page, we separated the process into multiple, minimal pages.
+- We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
+- Here are a few of the screens we presented:
 
 {: .wider}
 ![Landing page - Mobile](/assets/img/experian/eresolve-01.jpg "Landing page - Mobile"){: .mb2 .mt2}
