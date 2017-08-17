@@ -63,12 +63,12 @@ h3 {
   background-color: #CAFFE9;
 }
 
-ul {
+ul, ol {
   margin: 0 0 2rem 1.25rem;
   padding: 0;
 }
 
-ul li {
+ul li, ol li {
   margin-bottom: 1rem;
   font-size: 1.125rem;
   color: #131313;
@@ -139,7 +139,7 @@ p a:hover {
     margin-right: -5rem;
   }
 
-  ul li {
+  ul li, ol li {
     font-size: 1.25rem;
   }
 }
