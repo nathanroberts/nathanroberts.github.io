@@ -4,14 +4,8 @@ title: eResolve
 permalink: /work/eresolve/
 ---
 
-{: .f4-l .lh-copy .dark-gray .hilite .br2 .dib .ph1}
-Still working on this case study. Should have something up this week :)
-
-{: .mb2 .mt4}
-### Overview
-
 {: .f4-l .lh-copy .dark-gray .mb4}
-eResolve is a human-friendly, digital first approach to collections. Traditionally, debt collectors feel threatening and inflexible. eResolve replaces the old experience by speaking to consumers respectfully and giving them flexible payment options.
+No arguing. No threats. Choose your own path. eResolve is a human-friendly, digital first approach to collections. Traditionally, debt collectors feel hostile, threatening and inflexible. eResolve replaces the old experience by speaking to consumers respectfully and giving them flexible payment options.
 
 {: .mb2 .mt4}
 ### Role
@@ -19,8 +13,8 @@ eResolve is a human-friendly, digital first approach to collections. Traditional
 {: .f4-l .lh-copy .dark-gray .mb4}
 I spent some time digging into some existing user interviews and insights to familiarize myself with the product and how it could better meet the needs of its users. Translating the insights into action items allowed me to create a picture of how to improve eResolve. I needed to:
 
-- Re-think the user flow
 - Simplify the content strategy
+- Re-think the user flow
 - Refresh the visual design
 
 {: .f4-l .lh-copy .dark-gray .mb4}

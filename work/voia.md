@@ -4,14 +4,8 @@ title: Income and Asset Verification
 permalink: /work/voia/
 ---
 
-{: .f4-l .lh-copy .dark-gray .hilite .br2 .dib .ph1}
-Still working on this case study. Should have something up this week :)
-
-{: .mb2 .mt4}
-### Overview
-
 {: .f4-l .lh-copy .dark-gray .mb4}
-We're exploring some user flows and features for leveraging data to verify income and assets in lending. These few screens are part of a larger exploration demonstrating a user being presented with the ability to verify their income and assets in a digital loan process, like a mortgage application.
+We are exploring some user flows and features for leveraging data to verify income and assets in lending. These few screens are part of a larger exploration demonstrating a user being presented with the ability to verify their income and assets in a digital loan application.
 
 {: .wider}
 ![Find your FI](/assets/img/experian/verification-01.jpg "Find your FI"){: .mb2 .mt2}

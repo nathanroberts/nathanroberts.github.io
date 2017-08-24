@@ -4,12 +4,6 @@ title: Lens Guide
 permalink: /work/lens-guide/
 ---
 
-{: .f4-l .lh-copy .dark-gray .hilite .br2 .dib .ph1}
-Still working on this case study. Should have something up this week :)
-
-{: .mb2 .mt4}
-### Overview
-
 {: .f4-l .lh-copy .dark-gray .mb4}
 Oakley's lens inventory was growing. With so many options available, users were struggling to find the right lens. We created the lens guide to help people understand our lens and guide them to the right lens.
 
