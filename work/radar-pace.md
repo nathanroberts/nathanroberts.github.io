@@ -16,6 +16,8 @@ Oakley and [Intel](http://intel.com) partnered to create Radar Pace, a real-time
 
 
 {: .wider}
+![Early Whiteboards](/assets/img/oakley/radar-pace-08.jpg "Early Whiteboards"){: .mb2 .mt2}
+![Early Whiteboards](/assets/img/oakley/radar-pace-07.jpg "Early Whiteboards"){: .mb2 .mt2}
 ![Sign Up Screen](/assets/img/oakley/radar-pace-01.jpg "Sign Up Screen"){: .mb2 .mt2}
 ![Plan](/assets/img/oakley/radar-pace-02.jpg "Plan"){: .mb2 .mt2}
 ![Plan](/assets/img/oakley/radar-pace-03.jpg "Plan"){: .mb2 .mt2}

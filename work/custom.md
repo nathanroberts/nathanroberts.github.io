@@ -1,6 +1,6 @@
 ---
 layout: detail
-title: Creating a mobile-friendly Custom experience for oakley.com
+title: Oakley Custom
 permalink: /work/custom/
 ---
 

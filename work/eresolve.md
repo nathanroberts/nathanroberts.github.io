@@ -36,9 +36,12 @@ Now I'm working a designer on my team to flesh out the visual design. She's addr
 
 - We simplified the user flow by taking a "[one thing per page](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)" approach: instead of putting everything on one page, we separated the process into multiple, minimal pages.
 - We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
-- Here are a few of the screens we presented:
+
+{: .f4-l .lh-copy .dark-gray .mb4}
+Here's a peak at some quick-and-dirty sketches and assets we're working on:
 
 {: .wider}
+![Sketches](/assets/img/experian/eresolve-07.jpg "Sketches"){: .mb2 .mt2}
 ![Landing page - Mobile](/assets/img/experian/eresolve-01.jpg "Landing page - Mobile"){: .mb2 .mt2}
 ![Landing Page - Desktop](/assets/img/experian/eresolve-05.jpg "Landing Page - Desktop"){: .mb2 .mt2}
 ![Choose a payment option - Mobile](/assets/img/experian/eresolve-02.jpg "Choose a payment option - Mobile"){: .mb2 .mt2}
