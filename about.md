@@ -13,3 +13,6 @@ I have an *incredible* family -- I'm a proud dad! My wife and I married 10 years
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 I'm most invested when I'm building something meaningful for people that creates positive impact. I enjoy working with others, not in a silo. I get excited about technology and using it to improve our everyday lives.
+
+{: .f4-l .lh-copy .dark-gray .mb4}
+[View Resume](/assets/docs/nathan_roberts_resume.pdf)
