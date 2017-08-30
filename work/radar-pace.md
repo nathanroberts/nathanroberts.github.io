@@ -14,6 +14,9 @@ Oakley and [Intel](http://intel.com) partnered to create Radar Pace, a real-time
 - Most of the user research we did later on was in a board room. **Testing prototypes with users in the intended environment** provides more accurate feedback and drives clearer insights. This give us meaningful data to take action on, leading to a more focused product. This did happen later, but after the product was nearly built, costing time and money when iterating.
 - The product shipped later than intended because so many features were mandated into the launch. Launching with a MVP would have shortened the development timeline, brought us to market earlier and afforded us [validated learning](http://theleanstartup.com/principles) for future iterations.
 
+{: .f4-l .lh-copy .dark-gray .mt6}
+Download it on [Google Play](https://play.google.com/store/apps/details?id=com.oakley.radarpace&hl=en) or the [App Store](https://itunes.apple.com/us/app/radar-pace/id1108147139?mt=8).
+
 {: .f4-l .lh-copy .dark-gray .mb4}
 Here's a snapshot of some early sketches, whiteboard sessions, prototypes and screens that shipped.
 

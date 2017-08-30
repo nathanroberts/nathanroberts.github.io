@@ -34,11 +34,11 @@ Now I'm working a designer on my team to flesh out the visual design. She's addr
 {: .mb2 .mt4}
 ### Solution
 
-- We simplified the user flow by taking a "[one thing per page](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)" approach: instead of putting everything on one page, we separated the process into multiple, minimal pages.
+- We simplified the user flow by taking a "[one thing per page](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)" approach: instead of putting everything on one screen, we separated the process into multiple, minimal screens.
 - We cleaned up the interface by removing extraneous containers, shapes, shadows and a complex layout. We added a clear typographic hierarchy, friendly color scheme and straightforward single-column layout.
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-Here's a peak at some quick-and-dirty sketches and assets we're working on:
+These sketches show some exploration of simplified user journeys and different ways we could visualize flexible payment options and how they look as a monthly plan.
 
 {: .wider}
 ![Sketches](/assets/img/experian/eresolve-07.jpg "Sketches"){: .mb2 .mt2}
