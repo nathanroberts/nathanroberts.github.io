@@ -70,7 +70,7 @@ Based on this story, we can identify the following tasks a diner can perform usi
 
 ### The Server Experience
 
-Maren works a Friday evening delivering outstanding service to dozens of guests. She focused her night on delighting patrons by serving them the best dining experience at a well-known, dimly-lit resort restaurant.
+Maren works all evening delivering outstanding service to dozens of guests. She focused her night on delighting patrons by serving them the best dining experience at a well-known, dimly-lit resort restaurant.
 
 On her way home from work, she gets a notification on her Pixel from ServeBetter, an app she's been using the last few months. The notification tells her she has a new review from Shane G. She taps the notification to open the app and read the review details. It shows a 4.5 rating and mentions her delicious wine recommendation. She favorites the review to remember it later.
 
