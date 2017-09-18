@@ -1,0 +1,78 @@
+body {
+  font-family: "Karla", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.hi {
+  background: red;
+}
+
+p {
+  font-size: 18px;
+  color: #383838;
+  letter-spacing: -0.5px;
+  line-height: 32px;
+  margin-bottom: 16px;
+}
+
+.sm {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 1.875rem;
+  color: #383838
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #383838;
+  letter-spacing: -0.5px;
+  line-height: 32px;
+  margin-top: 64px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 16px;
+  color: #383838;
+  margin-top: 32px;
+}
+
+
+ul, ol {
+  margin: 0 0 2rem 1.25rem;
+  padding: 0;
+}
+
+ul li, ol li {
+  margin-bottom: 18px;
+  font-size: 18px;
+  color: #383838;
+  letter-spacing: -0.5px;
+  line-height: 32px;
+}
+
+p a, li a {
+  text-decoration: none;
+  color: #4E84FF;
+  font-weight: bold;
+}
+
+.wider {
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+
+@media screen and (min-width:60em) {
+  .wider {
+    margin-left: -9rem;
+    margin-right: -9rem;
+  }
+
+  ul li, ol li {
+    font-size: 18px;
+  }
+}

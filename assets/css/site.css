@@ -133,6 +133,27 @@ p a:hover {
   margin-right: -2rem;
 }
 
+.ex-copy {
+  font-size: 18px;
+  color: #383838;
+  letter-spacing: -0.5px;
+  line-height: 32px;
+  margin-bottom: 16px;
+}
+
+.ex-h1 {
+  display: block;
+margin-top: 500px;
+}
+
+.ex-h2 {
+  margin-bottom: 32px;
+}
+
+.ex-h3 {
+
+}
+
 @media screen and (min-width:60em) {
   .wider {
     margin-left: -5rem;
