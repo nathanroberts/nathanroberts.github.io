@@ -4,7 +4,7 @@ title: Google Design Exercise
 permalink: /exercise/
 ---
 
-## The challenge
+## Introduction
 
 The goal of the Wait Staff Reviews design exercise was to design an experience where diners can submit positive comments and constructive suggestions for the wait staff, and servers can use this feedback to both improve and help to secure new employment.
 This exercise was interesting to me because it meant I could consider multiple user perspectives, multiple environments and multiple contexts. It also felt like a fun problem to tackle :)
@@ -19,11 +19,11 @@ Design starts with the people I am designing for: the user. I try to immerse mys
 
 ## Research
 
-I wanted to uncover some facts about diners, servers and hiring managers. The Bureau of Labor Statistics estimates **nearly 2.6 million waiters and waitress** employed in the United States (2016). That’s a decent-sized market of servers.
+I wanted to uncover some facts about diners, servers and hiring managers. The Bureau of Labor Statistics [estimates](https://www.bls.gov/oes/current/oes353031.htm) **nearly 2.6 million waiters and waitress** employed in the United States (2016). That’s a decent-sized market of servers.
 
-One customer survey analysis I discovered reveals, "**customer perception of employee service is most important factor impacting their satisfaction**.” This implies the importance of hiring managers selecting servers that deliver customer satisfaction.
+A restaurant [customer survey analysis](http://www.expressdissertation.com/document/Statistics-analysis.pdf) reveals, "**customer perception of employee service is most important factor impacting their satisfaction**.” This implies the importance of hiring managers selecting servers that deliver customer satisfaction.
 
-A Yelp user posted the question, "What defines a good waiter or waitress?" A selection from over a dozen respondents shows diners care about:
+A Yelp user [posted the question](https://www.yelp.com/topic/los-angeles-whats-defines-a-good-waiter-waitress-to-you), "What defines a good waiter or waitress?" A selection from over a dozen respondents shows diners care about:
 
 - Prioritizes patron happiness/delight
 - Friendliness, personal connection, special attention
