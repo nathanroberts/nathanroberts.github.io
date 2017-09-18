@@ -3,8 +3,26 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-.hi {
-  background: red;
+.pinned {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.pinned span {
+  display: inline;
+  float: right;
+}
+
+.staricon {
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  margin-bottom: 32px;
 }
 
 p {
@@ -20,8 +38,15 @@ p {
 }
 
 h1 {
-  font-size: 1.875rem;
-  color: #383838
+  font-size: 24px;
+  line-height: 32px;
+  color: #383838;
+  text-align: center;
+}
+
+h1 span {
+  display: block;
+  font-weight: normal;
 }
 
 h2 {
