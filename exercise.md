@@ -51,7 +51,7 @@ Now that I’ve identified the users and learned a little more about them in my 
 With a baseline of knowledge about the users and some constraints uncovered through assumptions, I start jotting down thoughts and questions. I think about each user and where they are in their life in light of this product. I generate as many ideas as possible, attempting to “get them out” through writing and sketches.
 
 ## Product Focus
-I chose to focus this experience primarily on the server. My secondary focus was the diner, but I also considered the needs of hiring managers and how a server might anticipate them. I wrote these stories to help guide my thinking toward product features.
+I chose to focus my work primarily on the server. My secondary focus was the diner, but I also considered the needs of hiring managers and how a server might anticipate them. I wrote these stories to help guide my thinking toward product features.
 
 ### The Dining Experience
 Shane and his girlfriend just finished an outstanding dining experience. He is willing to review the server afterwards. What's the easiest route for Shane to write a review? I considered a few things:
@@ -124,11 +124,14 @@ Based on this flow, I can start thoughtfully organizing elements on each screen 
 ## Visual Design
 I chose to focus on visual design of the native mobile app for servers since it's at the core of the product. I used Material Design UI patterns because it leaves little guesswork for Android users. I changed up the typography to insert some creativity and set it apart from other apps. A bottom navigation approach clarifies the organization of the app and keeps each key part a tap (sometimes 2) away.
 
-{: .wider}
+{: .wider .mt4}
 ![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")
 
 {: .wider}
-![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")
+![Visual Design](/assets/img/exercise/visual-02.jpg "Visual Design")
+
+{: .wider}
+![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")
 
 ## 2.0
 With more time, I would have focused on three things:
