@@ -92,13 +92,13 @@ Based on these stories and tasks, I can start to play around with how I’ll org
 ### Diner User Flow
 
 {: .wider}
-![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Wireframes")
+[![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Wireframes")](/assets/img/exercise/flow-diner.jpg)
 
 {: .mt4}
 ### Server User Flow
 
 {: .wider}
-![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Wireframes")
+[![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Wireframes")](/assets/img/exercise/flow-server.jpg)
 
 ## Wireframes
 Based on this flow, I can start thoughtfully organizing elements on each screen to guide users to each task they need to complete. I further considered mobile UI patterns, transitions between screens and additional opportunities like gestures, voice interaction, etc.
@@ -107,31 +107,31 @@ Based on this flow, I can start thoughtfully organizing elements on each screen 
 ### Diner Wireframes
 
 {: .wider}
-![Diner Wireframes](/assets/img/exercise/wireframes-diner.jpg "Diner Wireframes")
+[![Diner Wireframes](/assets/img/exercise/wireframes-diner.jpg "Diner Wireframes")](/assets/img/exercise/wireframes-diner.jpg)
 
 {: .mt6}
 ### Server Wireframes
 
 {: .wider}
-![Server Wireframes](/assets/img/exercise/wireframes-server-01.jpg "Server Wireframes")
+[![Server Wireframes](/assets/img/exercise/wireframes-server-01.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-01.jpg)
 
 {: .wider}
-![Server Wireframes](/assets/img/exercise/wireframes-server-02.jpg "Server Wireframes")
+[![Server Wireframes](/assets/img/exercise/wireframes-server-02.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-02.jpg)
 
 {: .wider}
-![Server Wireframes](/assets/img/exercise/wireframes-server-03.jpg "Server Wireframes")
+[![Server Wireframes](/assets/img/exercise/wireframes-server-03.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-03.jpg)
 
 ## Visual Design
 I chose to focus on visual design of the native mobile app for servers since it's at the core of the product. I used Material Design UI patterns because it leaves little guesswork for Android users. I changed up the typography to insert some creativity and set it apart from other apps. A bottom navigation approach clarifies the organization of the app and keeps each key part a tap (sometimes 2) away.
 
 {: .wider .mt4}
-![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")
+[![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")](/assets/img/exercise/visual-01.jpg)
 
 {: .wider}
-![Visual Design](/assets/img/exercise/visual-02.jpg "Visual Design")
+[![Visual Design](/assets/img/exercise/visual-02.jpg "Visual Design")](/assets/img/exercise/visual-02.jpg)
 
 {: .wider}
-![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")
+[![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")](/assets/img/exercise/visual-03.jpg)
 
 ## 2.0
 With more time, I would have focused on three things:
@@ -149,6 +149,8 @@ Some bigger thinking uncovers even more ideas on where I could take the product:
 - What if hiring managers could open a web app and search for all servers in a region with a rating greater than 4.0 and 5 years experience?
 
 - What if servers could customize the review questions a diner sees? This would allow servers to identify a weakness, take a new approach to improve it and gather data on how they are improving.
+
+- What if diners could complete a survey completely from their messages app via an automated conversation/bot?
 
 - What if restaurants rewarded diners for writing reviews for their servers? This benefits the diner (cost savings), the server (more learning, denser data set of track record through higher review count) and the restaurant (better service through stronger wait staff)
 
