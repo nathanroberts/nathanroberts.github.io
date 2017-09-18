@@ -50,6 +50,9 @@ Now that I’ve identified the users and learned a little more about them in my 
 ## Ideation
 With a baseline of knowledge about the users and some constraints uncovered through assumptions, I start jotting down thoughts and questions. I think about each user and where they are in their life in light of this product. I generate as many ideas as possible, attempting to “get them out” through writing and sketches.
 
+{: .wider .mt5}
+[![Photos of the work in progress](/assets/img/exercise/proof.jpg "Photos of the work in progress")](/assets/img/exercise/proof.jpg)
+
 ## Product Focus
 I chose to focus my work primarily on the server. My secondary focus was the diner, but I also considered the needs of hiring managers and how a server might anticipate them. I wrote these stories to help guide my thinking toward product features.
 
@@ -92,13 +95,13 @@ Based on these stories and tasks, I can start to play around with how I’ll org
 ### Diner User Flow
 
 {: .wider}
-[![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Wireframes")](/assets/img/exercise/flow-diner.jpg)
+[![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Flow")](/assets/img/exercise/flow-diner.jpg)
 
 {: .mt4}
 ### Server User Flow
 
 {: .wider}
-[![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Wireframes")](/assets/img/exercise/flow-server.jpg)
+[![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Flow")](/assets/img/exercise/flow-server.jpg)
 
 ## Wireframes
 Based on this flow, I can start thoughtfully organizing elements on each screen to guide users to each task they need to complete. I further considered mobile UI patterns, transitions between screens and additional opportunities like gestures, voice interaction, etc.
