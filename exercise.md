@@ -4,7 +4,6 @@ title: Google Design Exercise
 permalink: /exercise/
 ---
 
-
 ## The challenge
 
 The goal of the Wait Staff Reviews design exercise was to design an experience where diners can submit positive comments and constructive suggestions for the wait staff, and servers can use this feedback to both improve and help to secure new employment.
