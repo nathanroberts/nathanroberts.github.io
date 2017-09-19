@@ -138,7 +138,7 @@ I chose to focus on visual design of the native mobile app for servers since it'
 [![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")](/assets/img/exercise/visual-03.jpg)
 
 ## Prototype, test and iterate
-https://invis.io/98612043725J3S
+<a href="https://invis.io/98612043725J3S">Invision prototype</a>
 
 
 ## 2.0
