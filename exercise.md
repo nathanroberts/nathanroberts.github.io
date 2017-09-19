@@ -7,7 +7,8 @@ permalink: /exercise/
 ## Introduction
 
 The goal of the Wait Staff Reviews design exercise was to design an experience where diners can submit positive comments and constructive suggestions for the wait staff, and servers can use this feedback to both improve and help to secure new employment.
-This exercise was interesting to me because it meant I could consider multiple user perspectives, multiple environments and multiple contexts. It also felt like a fun problem to tackle :)
+This exercise was interesting to me because it meant I could consider multiple user perspectives, multiple environments and multiple contexts. It also felt like a fun problem to tackle 👨‍🔧
+
 
 ## Identifying users
 
