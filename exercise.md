@@ -140,7 +140,7 @@ I chose to focus on visual design of the native mobile app for servers since it'
 ## Prototype, test and iterate
 Typically I begin prototyping when I'm working with wireframes to get a perspective on the product that happens when you connect the screens in a tangible way. As soon as I have a prototype, I can start showing others the ideas, including users. With their input, I can learn what works and what doesn't, then refine the product through iteration.
 
-In this case, I dropped high fidelity screens into Invision  so I could get a feel for the final product. <a href="https://invis.io/98612043725J3S">Check out the Invision prototype</a>.
+In this case, I dropped high fidelity screens into Invision to get a feel for the final product. <a href="https://invis.io/T7DJQ9H9D#/253757032_Intro">Check out the Invision prototype</a>.
 
 
 ## 2.0
@@ -166,7 +166,7 @@ Some bigger thinking uncovers even more ideas on where I could take the product:
 
 
 ## Conclusion
-This exercise allowed me to explore problem solving for a unique collection of users, express my design process and thinking, and have some fun dreaming in the process. Thanks for reading!
+This exercise allowed me to explore problem solving for a unique collection of users, express my design process and thinking, and have some fun dreaming in the process. Thanks for reading! 🙏🏼
 
 {: .mt5}
 [&larr; nathanroberts.com](/)
