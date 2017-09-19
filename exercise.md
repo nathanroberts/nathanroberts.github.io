@@ -138,7 +138,9 @@ I chose to focus on visual design of the native mobile app for servers since it'
 [![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")](/assets/img/exercise/visual-03.jpg)
 
 ## Prototype, test and iterate
-<a href="https://invis.io/98612043725J3S">Invision prototype</a>
+Typically I begin prototyping when I'm working with  wireframes to get a perspective on the product that happens when you connect the screens in a tangible way. As soon as I have a prototype, I can start showing others the ideas, including users. With their input, I can learn what works and what doesn't, then refine it through iteration.
+
+In this case, I dropped high fidelity screens into Invision  so I could get a feel for the final product. <a href="https://invis.io/98612043725J3S">Check out the Invision prototype</a>.
 
 
 ## 2.0
