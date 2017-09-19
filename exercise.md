@@ -57,7 +57,7 @@ With a baseline of knowledge about the users and some constraints uncovered thro
 ## Product Focus
 I chose to focus my work primarily on the server. My secondary focus was the diner, but I also considered the needs of hiring managers and how a server might anticipate them. I wrote these stories to help guide my thinking toward product features.
 
-### The Dining Experience
+### The Diner Experience
 Shane and his girlfriend just finished an outstanding dining experience. He is willing to review the server afterwards. What's the easiest route for Shane to write a review? I considered a few things:
 
 1. Shane sees a call-to-action and QR code on his receipt and scans the QR code, which opens his mobile web browser and brings him to the review experience. The problem with this solution is Shane may not understand the interaction and probably doesn't have an app that reads and interprets QR codes.
@@ -78,7 +78,7 @@ Maren works all evening delivering outstanding service to dozens of guests. She 
 
 On her way home from work, she gets a notification on her Pixel from ServeBetter, an app she's been using the last few months. The notification tells her she has a new review from Shane G. She taps the notification to open the app and read the review details. It shows a 4.5 rating and mentions her delicious wine recommendation. She favorites the review to remember it later.
 
-Maren thinks about the conversation she had last week with a hiring manager at a new resort restaurant. One of the things he was looking for was someone knowledgeable of wine. Maren decides to view and edit her ServeBetter profile to highlight her affinity for wine. Then she taps to her favorites to view Shane's review again. She shares it with the new resort restaurant hiring manager via email.
+Maren thinks about the conversation she had last week with a hiring manager at a new resort restaurant. She opens her profile and shares it with the new resort restaurant hiring manager via email.
 
 Based on this story, we can identify the following tasks a server can perform using the ServeBetter app:
 
@@ -138,7 +138,7 @@ I chose to focus on visual design of the native mobile app for servers since it'
 [![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")](/assets/img/exercise/visual-03.jpg)
 
 ## Prototype, test and iterate
-Typically I begin prototyping when I'm working with  wireframes to get a perspective on the product that happens when you connect the screens in a tangible way. As soon as I have a prototype, I can start showing others the ideas, including users. With their input, I can learn what works and what doesn't, then refine it through iteration.
+Typically I begin prototyping when I'm working with wireframes to get a perspective on the product that happens when you connect the screens in a tangible way. As soon as I have a prototype, I can start showing others the ideas, including users. With their input, I can learn what works and what doesn't, then refine the product through iteration.
 
 In this case, I dropped high fidelity screens into Invision  so I could get a feel for the final product. <a href="https://invis.io/98612043725J3S">Check out the Invision prototype</a>.
 
