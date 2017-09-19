@@ -51,8 +51,8 @@ Now that I’ve identified the users and learned a little more about them in my 
 ## Ideation
 With a baseline of knowledge about the users and some constraints uncovered through assumptions, I start jotting down thoughts and questions. I think about each user and where they are in their life in light of this product. I generate as many ideas as possible, attempting to “get them out” through writing and sketches.
 
-{: .wider .mt5}
-[![Photos of the work in progress](/assets/img/exercise/proof.jpg "Photos of the work in progress")](/assets/img/exercise/proof.jpg)
+{: .full-width .mt5}
+![Photos of the work in progress](/assets/img/exercise/proof.jpg "Photos of the work in progress")
 
 ## Product Focus
 I chose to focus my work primarily on the server. My secondary focus was the diner, but I also considered the needs of hiring managers and how a server might anticipate them. I wrote these stories to help guide my thinking toward product features.
@@ -96,13 +96,13 @@ Based on these stories and tasks, I can start to play around with how I’ll org
 ### Diner User Flow
 
 {: .wider}
-[![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Flow")](/assets/img/exercise/flow-diner.jpg)
+![Diner User Flow](/assets/img/exercise/flow-diner.jpg "Diner Flow")
 
 {: .mt4}
 ### Server User Flow
 
 {: .wider}
-[![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Flow")](/assets/img/exercise/flow-server.jpg)
+![Server User Flow](/assets/img/exercise/flow-server.jpg "Server Flow")
 
 ## Wireframes
 Based on this flow, I can start thoughtfully organizing elements on each screen to guide users to each task they need to complete. I further considered mobile UI patterns, transitions between screens and additional opportunities like gestures, voice interaction, etc.
@@ -111,31 +111,31 @@ Based on this flow, I can start thoughtfully organizing elements on each screen 
 ### Diner Wireframes
 
 {: .wider}
-[![Diner Wireframes](/assets/img/exercise/wireframes-diner.jpg "Diner Wireframes")](/assets/img/exercise/wireframes-diner.jpg)
+![Diner Wireframes](/assets/img/exercise/wireframes-diner.jpg "Diner Wireframes")
 
 {: .mt6}
 ### Server Wireframes
 
 {: .wider}
-[![Server Wireframes](/assets/img/exercise/wireframes-server-01.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-01.jpg)
+![Server Wireframes](/assets/img/exercise/wireframes-server-01.jpg "Server Wireframes")
 
 {: .wider}
-[![Server Wireframes](/assets/img/exercise/wireframes-server-02.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-02.jpg)
+![Server Wireframes](/assets/img/exercise/wireframes-server-02.jpg "Server Wireframes")
 
 {: .wider}
-[![Server Wireframes](/assets/img/exercise/wireframes-server-03.jpg "Server Wireframes")](/assets/img/exercise/wireframes-server-03.jpg)
+![Server Wireframes](/assets/img/exercise/wireframes-server-03.jpg "Server Wireframes")
 
 ## Visual Design
 I chose to focus on visual design of the native mobile app for servers since it's at the core of the product. I used Material Design UI patterns because it leaves little guesswork for Android users. I changed up the typography to insert some creativity and set it apart from other apps. A bottom navigation approach clarifies the organization of the app and keeps each key part a tap (sometimes 2) away.
 
 {: .wider .mt4}
-[![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")](/assets/img/exercise/visual-01.jpg)
+![Visual Design](/assets/img/exercise/visual-01.jpg "Visual Design")
 
 {: .wider}
-[![Visual Design](/assets/img/exercise/visual-02.jpg "Visual Design")](/assets/img/exercise/visual-02.jpg)
+![Visual Design](/assets/img/exercise/visual-02.jpg "Visual Design")
 
 {: .wider}
-[![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")](/assets/img/exercise/visual-03.jpg)
+![Visual Design](/assets/img/exercise/visual-03.jpg "Visual Design")
 
 ## Prototype, test and iterate
 Typically I begin prototyping when I'm working with wireframes to get a perspective on the product that happens when you connect the screens in a tangible way. As soon as I have a prototype, I can start showing others the ideas, including users. With their input, I can learn what works and what doesn't, then refine the product through iteration.
