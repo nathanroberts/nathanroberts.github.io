@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nathanroberts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nathanroberts.com
+  * I am nathanroberts (https://keybase.io/nathanroberts) on keybase.
+  * I have a public key ASAPlh7WOKCYlQ5IMaze-CfM1B5XvwBobSAYuLqGqQr3Ewo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201efe918b39b1bef3e40169d8e08b8bde8cb588742e2b84b6b54d8fd73451b4dc0a",
+      "host": "keybase.io",
+      "kid": "01200f961ed638a098950e4831acdef827ccd41e57bf00686d2018b8ba86a90af7130a",
+      "uid": "30ffaf5a840e99be417a53b1df0a7f19",
+      "username": "nathanroberts"
+    },
+    "merkle_root": {
+      "ctime": 1508967744,
+      "hash": "ea9c44216872281675ce6b5297be11b96d199bcadb1e22346ac4b42af0cfe1d2d621d1f81eef95e984bd1b8d4996d762532ec36cae8b59ac6b522c2f8b442ea5",
+      "hash_meta": "b9e5063cecbd7c7d67198f76c88dc705eb855c64f59e79d23baab35eff20aa0a",
+      "seqno": 1630021
+    },
+    "service": {
+      "hostname": "nathanroberts.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508967762,
+  "expire_in": 504576000,
+  "prev": "1966fd1779028b04d4cbd17360d46607f7df4c03298de0e5e1912438646cd787",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgD5Ye1jigmJUOSDGs3vgnzNQeV78AaG0gGLi6hqkK9xMKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMWVmZTkxOGIzOWIxYmVmM2U0MDE2OWQ4ZTA4YjhiZGU4Y2I1ODg3NDJlMmI4NGI2YjU0ZDhmZDczNDUxYjRkYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGY5NjFlZDYzOGEwOTg5NTBlNDgzMWFjZGVmODI3Y2NkNDFlNTdiZjAwNjg2ZDIwMThiOGJhODZhOTBhZjcxMzBhIiwidWlkIjoiMzBmZmFmNWE4NDBlOTliZTQxN2E1M2IxZGYwYTdmMTkiLCJ1c2VybmFtZSI6Im5hdGhhbnJvYmVydHMifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDg5Njc3NDQsImhhc2giOiJlYTljNDQyMTY4NzIyODE2NzVjZTZiNTI5N2JlMTFiOTZkMTk5YmNhZGIxZTIyMzQ2YWM0YjQyYWYwY2ZlMWQyZDYyMWQxZjgxZWVmOTVlOTg0YmQxYjhkNDk5NmQ3NjI1MzJlYzM2Y2FlOGI1OWFjNmI1MjJjMmY4YjQ0MmVhNSIsImhhc2hfbWV0YSI6ImI5ZTUwNjNjZWNiZDdjN2Q2NzE5OGY3NmM4OGRjNzA1ZWI4NTVjNjRmNTllNzlkMjNiYWFiMzVlZmYyMGFhMGEiLCJzZXFubyI6MTYzMDAyMX0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuYXRoYW5yb2JlcnRzLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDg5Njc3NjIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMTk2NmZkMTc3OTAyOGIwNGQ0Y2JkMTczNjBkNDY2MDdmN2RmNGMwMzI5OGRlMGU1ZTE5MTI0Mzg2NDZjZDc4NyIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDDpE36SGRKSseCkbcWqxkLnD1CUMKjSMapCgPMZruynMujWPv2mwbjyEgw65RPYkXzf+4K+Wd+nlZAXcfAYb0AqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgx14ndNbgYXoogX+DEylvnlw3XQ5bvWGbWXtoLfE0lOejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nathanroberts
+
+==================================================================
