@@ -14,7 +14,7 @@ I'm Nathan Roberts, a designer at [Google](https://google.com). Before, I led sm
 I'm most invested when I'm building something meaningful for people that creates positive impact. I enjoy working with others, not in a silo. I get excited about technology and using it to improve our everyday lives.
 
 {: .f4-l .lh-copy .dark-gray .mb4}
-I have an *incredible* family -- I'm a proud dad! My wife and I married 10 years(!!!) ago. Together we have three kids: Abram 👦, Hazel 👧 and Maren 👧.
+I have an *incredible* family -- I'm a proud dad and husband! Together we have four kids: Abram 👦, Hazel 👧, Maren 👧 and Rex 👦.
 
 {: .f4-l .lh-copy .dark-gray .mb4}
 [View my resume](/assets/docs/nathan_roberts_resume.pdf)
